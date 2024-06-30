@@ -1,8 +1,5 @@
-import pandas as pd # type: ignore
-import requests # type: ignore
-from bs4 import BeautifulSoup # type: ignore
-import json
-from io import StringIO
+import requests
+from bs4 import BeautifulSoup
 
 
 
